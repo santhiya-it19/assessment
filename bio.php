@@ -1,5 +1,5 @@
 <html>
-<body style="background-image:url(http://www.portoalegre.travel/upload/b/121/1$
+<body style="background-image:url(http://www.portoalegre.travel/upload/b/121/1214840_full-hd-blur-wallpaper.jpg);
 background-color:lavender;font-size:20px;">
 <h1 style="text-align:center;font-family:algerian;">
 BIODATA
